@@ -1,2 +1,1 @@
-# YTLive
-YTLive: A Dataset of Real-World YouTube Live Streaming Sessions
+# YTLive: A Dataset of Real-World YouTube Live Streaming Sessions
