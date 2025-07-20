@@ -9,7 +9,7 @@ Contains stream duration information with precise timestamps (UTC):
 - `actualStartTime`: Stream start timestamp (ISO 8601)
 - `actualEndTime`: Stream end timestamp (ISO 8601)  
 - `duration_in_minutes`: Total duration in minutes
-- 
+  
 ### viewers.csv
 Contains periodic viewer counts recorded at 5-minute intervals:
 - `Timestamp`: Observation time (UTC)
