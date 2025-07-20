@@ -18,8 +18,6 @@ Contains periodic viewer counts recorded at 5-minute intervals:
 ## Key Characteristics
 - 📅 Covers 2-month observation period (May & June 2024)
 - ⏱ 5-minute sampling interval for viewer counts
-- ⚠️ Contains anomalous never-ending streams
-- 🔍 3 example streams included in sample data
 
 ## Citation
 ```
